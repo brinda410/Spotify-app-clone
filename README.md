@@ -39,7 +39,7 @@ A responsive, **pixel-accurate clone of the Spotify web player interface**, buil
 
 ---
 
-## 📁 Project Structure
+```
 spotify-app-clone/
 ├── index.html
 ├── style.css
@@ -51,6 +51,7 @@ spotify-app-clone/
 │   └── card1img.jpeg
 ├── LICENSE
 └── README.md
+```
 ---
 
 ---
