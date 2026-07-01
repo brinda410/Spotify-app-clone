@@ -10,10 +10,6 @@ A high-fidelity, responsive clone of the Spotify web player interface, built wit
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## Preview
-
-![Spotify App Clone Preview](assets/preview.png)
-
 ## Features
 
 - Persistent sidebar with Home/Search navigation and a Library panel including onboarding prompts (create playlist, browse podcasts)
@@ -41,7 +37,6 @@ spotify-app-clone/
 ├── index.html          # Main markup — sidebar, content, player
 ├── style.css            # All component and layout styling
 ├── assets/
-│   ├── preview.png
 │   ├── logo.png
 │   ├── library_icon.png
 │   ├── backward_icon.png
