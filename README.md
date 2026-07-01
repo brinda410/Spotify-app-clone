@@ -80,4 +80,4 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for details.
 ## 👤 Author
 **Brindashree R**
 
-> Built as a personal front-end project for learning and portfolio purposes. Not affiliated with or endorsed by Spotify.
+
