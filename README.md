@@ -11,7 +11,7 @@ A responsive, **pixel-accurate clone of the Spotify web player interface**, buil
 
 ## 🔴 Live Demo
 
-> 🌐 [View Live Site](https://brinda410.github.io/spotify-app-clone)
+> 🌐 [View Live Site](https://brinda410.github.io/Spotify-app-clone)
 
 ---
 
